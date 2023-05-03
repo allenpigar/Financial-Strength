@@ -1,0 +1,31 @@
+- id: "/about/financial-strength"
+  web:
+    metaDescription: "Finding a trustworthy insurance company is essential for protecting your home. See what makes Kin a trusted and financially stable company."
+    metaTitle: "Financial strength and ratings"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "financial-strength"
+    path: "/financial-strength/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: "See what makes Kin a trusted and financially stable carrier."
+    header_text: "Financial strength overview"
+    sub_header: null
+    featured_image: "3-f894c39-d69st8"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: "<p>Insuring your house is more than just a financial decision. It’s the peace of mind when you know the home you’ve made – full of people and pets and belongings you love – is in the care of an insurance company you trust.</p>\n<p>One way to tell if you’re working with a trustworthy insurance company (other than <a href=\"/reviews/\">rave customer reviews</a>)? Transparency.</p>\n<p>Kin is built to benefit our customers at every turn, and that includes full transparency into our operations and how we make decisions. We even structured our insurance company as a <a href=\"/faq/reciprocal-insurance-exchange/\">reciprocal exchange</a> so our policyholders own part of the carrier. That gives us even more incentive to keep our customers happy – and our <a href=\"/sac/\">Subscribers’ Advisory Committee</a> ensures we do.</p>\n<p>This behind-the-scenes look demonstrates our financial health – a little assurance that when you’re a Kin policyholder, we care about what you care about.</p>\n<h2 id=\"kinsfinancialrating\">Kin’s financial rating</h2>\n<p>{{<image url=\"/images/uploads/rating.png\" alt=\"financial stability rating\" size=\"small\" float=\"right\">}}</p>\n<p>In Florida, Louisiana, and South Carolina, coverage is issued through either the Kin Interinsurance Network or the Kin Interinsurance Nexus Exchange. Both carriers have <a href=\"http://www.demotech.com/search_results_fsr.aspx?id=16603&t=2&AspxAutoDetectCookieSupport=1\">financial stability ratings of A, Exceptional</a> from Demotech, Inc., an independent rating agency. This rating is assigned to insurers who maintain positive surplus as regards policyholders, liquidity of invested assets, an acceptable level of financial leverage, reasonable loss and loss adjustment expense reserves (L&amp;LAE), and realistic pricing.</p>\n<p>Kin’s <a href=\"/home-insurance/california/\">California home insurance</a> is backed by Falls Lake Fire and Casualty Company, which is rated A (Excellent) by AM Best, and through a partnership with <a href=\"https://www.munichre.com/digital-partners/en.html\">Digital Partners</a>, a <a href=\"https://www.munichre.com/en.html\">Munich Re</a> company rated A+ (Superior) by AM Best.</p>\n<p>In other words, we have dotted our i’s and crossed our t’s when it comes to our financial outlook.</p>\n<h2 id=\"ourreinsuranceprogram\">Our reinsurance program</h2>\n<p><a href=\"/glossary/reinsurance-definition/\" title=\"Reinsurance\">Reinsurance</a> is simply insurance for insurance companies – it’s a way to spread out risk and limit the amount of loss our own company will experience if there’s a widespread disaster. Think of it as a safety net below a safety net. Never hurts to take extra precautions!</p>\n<p>We are backed by a group of more than 40 financially strong reinsurers. All have an -A rating or higher from AM Best or are fully collateralized. We have three separate reinsurance programs:</p>\n<ul>\n<li>One helps pay for widespread, single events, such as hurricanes or wildfires. For example, we have more than $300 million in reinsurance for hurricane events.</li>\n<li>Another helps pay for total losses, such as a fire destroying an entire home (or a loss above $500,000).</li>\n<li>And one helps us share losses at a 75/25 split (we retain the 75). So if there is a $10,000 claim, we would pay for $7,500 and our reinsurance program would cover the other $2,500.</li>\n</ul>\n<p>What this means for you: no matter the catastrophe or amount of claims, we can meet our obligations to you. We are backed by industry-leading reinsurers so that we have additional capital to draw from in case we ever need to.</p>\n<p>In fact, our reinsurance program is so strong that the probability of surpassing these reserves is incredibly rare. Only once in every <strong>160 years</strong> would we expect one event to exceed our program.</p>\n<p>And even if that did happen, we still have more than <strong>$30 million</strong> in capital to back up claims beyond our program.</p>\n<h2 id=\"quarterlyfinancialsummary\">Quarterly financial summary</h2>\n<p>We’ll update this every quarter so you can watch us grow. The important part: our assets and surplus show we have plenty of our own financial reserves (not including our reinsurance) to take care of our policyholders.</p>\n<p><a href=\"/images/uploads/kin-interinsurance-annual-2022-final.pdf\">Click here to see the full summary [PDF]</a>.</p>\n<p>| Reporting Period | Net Admitted Assets | Policyholder Surplus |\n| --- | --- | --- |\n| 9/30/2022 | $119.2M | $55.9M |</p>"
